@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css?family=Dancing+Script');
+
+
+body {
+  background: url('https://cdn.pixabay.com/photo/2015/02/27/16/31/drummer-652345_960_720.jpg') no-repeat fixed;
+  background-size: cover;
+  margin: 50px 50px;
+  color: whitesmoke
+}
+
+.intro {
+  text-transform: uppercase;
+  font-size: 30px;
+  
+}
+.keys {
+  display: flex;
+}
+
+.key {
+  border: 2px solid white;
+  border-radius: 10px;
+  margin: 280px 30px;
+  text-align: center;
+  width: 20%;
+  background-color: rgba(0,0,0,0.6);
+  text-shadow: 0 0 5px red;
+  transition: all 0.07s
+}
+
+kbd {
+  color: whitesmoke;
+  font-size: 40px;
+}
+
+.sound {
+  color: green;
+  font-size: 20px;
+  display: block;
+  font-family: 'Dancing Script', cursive;
+}
+
+.playing {
+  transform: scale(1.1);
+  border-color: #ffc600;
+  box-shadow: 0 0 10px #ffc600
+}
