@@ -11,6 +11,8 @@ body {
 .intro {
   text-transform: uppercase;
   font-size: 30px;
+  word-spacing: 23px;
+  letter-spacing: 24px
   
 }
 .keys {
