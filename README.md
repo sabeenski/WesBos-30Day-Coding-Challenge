@@ -2,6 +2,7 @@
 ## 30 Day Vanilla JS coding challenge
 
 **This repo contains all the coding challenges I have done from** [WesBos JavaScript30 (30 Day Challenge)](https://github.com/wesbos/JavaScript30)
-### No Frameworks ⚡️ No Compilers ⚡️ No Libraries ⚡️ No Boilerplate
+
+**No Frameworks ⚡️ No Compilers ⚡️ No Libraries ⚡️ No Boilerplate**
 
 * [Drum Kit](https://github.com/sabeenski/WesBos-30Day-Coding-Challenge/tree/master/01%20-%20Drum%20Kit)
