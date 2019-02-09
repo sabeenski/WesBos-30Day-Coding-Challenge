@@ -1,0 +1,49 @@
+body {
+  background-image: url('https://cdn.pixabay.com/photo/2014/09/24/16/28/bricks-459299_960_720.jpg');
+  background-size: cover;
+  align-items: center;
+  
+
+}
+
+.clock {
+  width: 30rem;
+  height: 30rem;
+  border: 10px solid gray;
+  border-radius: 50%;
+  margin: 80px auto;
+  padding: 2rem;
+  background-color: black;
+  position: relative;
+  box-shadow: 0px 0px 20px 5px black
+
+}
+
+.clock-face {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  transform: translateY(-3px); /* account for the height of the clock hands */
+}
+
+
+.hand {
+  width: 50%;
+  height: 5px;
+  background: white;
+  position: absolute;
+  top: 50%;
+  transform-origin: 100%;  /*Rotation starts from the right most, X-axis, by default it is 50% */
+  transform: rotate(90deg);
+  transition: all 0.1s;
+  transition-timing-function: ease-in-out;
+}
+
+.second-hand {
+  background-color: red;
+  height: 2px;
+}
+
+.hour-hand {
+  background: green
+}
