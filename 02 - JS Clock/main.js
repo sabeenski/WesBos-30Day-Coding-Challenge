@@ -3,7 +3,7 @@
 const secondHand = document.querySelector('.second-hand')
 const minuteHand = document.querySelector('.minute-hand')
 const hourHand = document.querySelector('.hour-hand')
-const handsAll = document.querySelectorAll('.hand')
+const allHands = document.querySelectorAll('.hand')
 
 function setDate() {
   const now = new Date()
