@@ -8,3 +8,4 @@
 [Visit the site here](https://sabeenski.github.io/WesBos-30Day-Coding-Challenge/)
 ## Challenges
 * [Drum Kit](https://github.com/sabeenski/WesBos-30Day-Coding-Challenge/tree/master/01%20-%20Drum%20Kit)
+* [JS Clock](https://github.com/sabeenski/WesBos-30Day-Coding-Challenge/tree/master/02%20-%20JS%20Clock)
