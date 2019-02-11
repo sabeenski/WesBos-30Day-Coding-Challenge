@@ -10,3 +10,4 @@
 * [Drum Kit](https://github.com/sabeenski/WesBos-30Day-Coding-Challenge/tree/master/01%20-%20Drum%20Kit)
 * [JS Clock](https://github.com/sabeenski/WesBos-30Day-Coding-Challenge/tree/master/02%20-%20JS%20Clock)
 * [Update CSS with JS](https://github.com/sabeenski/WesBos-30Day-Coding-Challenge/tree/master/03%20-%20Update%20CSS%20Variable%20with%20JS)
+* [Array Cardio 1](https://github.com/sabeenski/WesBos-30Day-Coding-Challenge/tree/master/04%20-%20Array%20Cardio%201)
