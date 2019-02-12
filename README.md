@@ -6,8 +6,10 @@
 **No Frameworks ⚡️ No Compilers ⚡️ No Libraries ⚡️ No Boilerplate** 
 
 [Visit the site here](https://sabeenski.github.io/WesBos-30Day-Coding-Challenge/)
+
 ## Challenges
 * [Drum Kit](https://github.com/sabeenski/WesBos-30Day-Coding-Challenge/tree/master/01%20-%20Drum%20Kit)
 * [JS Clock](https://github.com/sabeenski/WesBos-30Day-Coding-Challenge/tree/master/02%20-%20JS%20Clock)
 * [Update CSS with JS](https://github.com/sabeenski/WesBos-30Day-Coding-Challenge/tree/master/03%20-%20Update%20CSS%20Variable%20with%20JS)
 * [Array Cardio 1](https://github.com/sabeenski/WesBos-30Day-Coding-Challenge/tree/master/04%20-%20Array%20Cardio%201)
+* [Flex Image Gallery](https://github.com/sabeenski/WesBos-30Day-Coding-Challenge/tree/master/05%20-%20Flex%20Panels%20Image)
