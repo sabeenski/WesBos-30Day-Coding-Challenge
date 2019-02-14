@@ -13,3 +13,4 @@
 * [Update CSS with JS](https://github.com/sabeenski/WesBos-30Day-Coding-Challenge/tree/master/03%20-%20Update%20CSS%20Variable%20with%20JS)
 * [Array Cardio 1](https://github.com/sabeenski/WesBos-30Day-Coding-Challenge/tree/master/04%20-%20Array%20Cardio%201)
 * [Flex Image Gallery](https://github.com/sabeenski/WesBos-30Day-Coding-Challenge/tree/master/05%20-%20Flex%20Panels%20Image)
+* [Typed Ahead](https://github.com/sabeenski/WesBos-30Day-Coding-Challenge/tree/master/06%20-%20Typed%20Ahead)
