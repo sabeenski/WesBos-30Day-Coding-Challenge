@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css?family=Monoton');
+
+html, body {
+  margin: 0;
+}
+
+h5 {
+  font-size: 40px;
+  text-align: center;
+  color:#FF9D00;
+  font-family: 'Monoton', cursive;
+  letter-spacing: 0.3em
+}
+
+p {
+  text-align: center;
+  text-decoration: underline;
+  font-size: 1.5em;
+  margin: -50px;
+  color: rgb(17, 124, 88)
+}

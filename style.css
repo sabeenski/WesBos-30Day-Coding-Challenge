@@ -93,6 +93,9 @@ img {
   height: 185px
 }
 
+#challenge-8 {
+  border: 5px dotted blue
+}
 @keyframes bounce {
 	10%, 90% {
 		-webkit-transform: translateY(-5px);
