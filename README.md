@@ -16,4 +16,4 @@
 * [Typed Ahead](https://github.com/sabeenski/WesBos-30Day-Coding-Challenge/tree/master/06%20-%20Typed%20Ahead)
 * [Array Cardio 2](https://github.com/sabeenski/WesBos-30Day-Coding-Challenge/tree/master/07%20-%20Array%20Cardio%202)
 * [HTML Canvas](https://github.com/sabeenski/WesBos-30Day-Coding-Challenge/tree/master/08%20%20Fun%20with%20Html%20Canvas)
-
+* [Console tricks](https://github.com/sabeenski/WesBos-30Day-Coding-Challenge/tree/master/09%20-%20Dev%20Tools%20Domination)
