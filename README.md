@@ -5,7 +5,7 @@
 
 **No Frameworks ⚡️ No Compilers ⚡️ No Libraries ⚡️ No Boilerplate** 
 
-[Visit the site here](https://sabeenski.github.io/WesBos-30Day-Coding-Challenge/)
+[Visit the Full Site here](https://sabeenski.github.io/WesBos-30Day-Coding-Challenge/) - Contains all the challenges I've done so far!
 
 ## Challenges
 * [Drum Kit](https://github.com/sabeenski/WesBos-30Day-Coding-Challenge/tree/master/01%20-%20Drum%20Kit)
