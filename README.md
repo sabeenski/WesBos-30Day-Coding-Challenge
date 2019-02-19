@@ -18,3 +18,4 @@
 * [HTML Canvas](https://github.com/sabeenski/WesBos-30Day-Coding-Challenge/tree/master/08%20%20Fun%20with%20Html%20Canvas)
 * [Console tricks](https://github.com/sabeenski/WesBos-30Day-Coding-Challenge/tree/master/09%20-%20Dev%20Tools%20Domination)
 * [Multiple Selection](https://github.com/sabeenski/WesBos-30Day-Coding-Challenge/tree/master/10%20 %20Use%20Shift%20for%20multiple%20selection)
+* [Custom Video Player](https://github.com/sabeenski/WesBos-30Day-Coding-Challenge/tree/master/11%20-%20Custom%20Video%20Player)
