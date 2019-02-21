@@ -2,7 +2,7 @@
 
 
 body {
-  background: url('https://cdn.pixabay.com/photo/2015/02/27/16/31/drummer-652345_960_720.jpg') no-repeat fixed;
+  background: url('background.png') no-repeat fixed;
   background-size: cover;
   margin: 50px 50px;
   color: whitesmoke

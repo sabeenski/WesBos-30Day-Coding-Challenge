@@ -1,8 +1,8 @@
 body {
-  /* background: url('/images/main-background.png') no-repeat; */
+  background: url('images/bg.png') no-repeat;
   background-size: cover;
   font-family: 'Poiret One', cursive;
-  background: linear-gradient(to right, #01B6C2 , rgb(168, 168, 69), green, #01B6C2  ) 
+  /* background: linear-gradient(to right, #01B6C2 , rgb(168, 168, 69), green, #01B6C2  )  */
  
 }
 
