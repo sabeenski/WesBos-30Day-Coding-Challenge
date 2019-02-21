@@ -19,3 +19,5 @@
 * [Console tricks](https://github.com/sabeenski/WesBos-30Day-Coding-Challenge/tree/master/09%20-%20Dev%20Tools%20Domination)
 * [Multiple Selection](https://github.com/sabeenski/WesBos-30Day-Coding-Challenge/tree/master/10%20-%20Use%20Shift%20for%20multiple%20selection)
 * [Custom Video Player](https://github.com/sabeenski/WesBos-30Day-Coding-Challenge/tree/master/11%20-%20Custom%20Video%20Player)
+* [Key Sequence Detection](https://github.com/sabeenski/WesBos-30Day-Coding-Challenge/tree/master/12%20-%20Key%20Sequence%20Detection)
+* [Slide in On Scroll](https://github.com/sabeenski/WesBos-30Day-Coding-Challenge/tree/master/13%20-%20Slide%20In%20On%20Scroll)
